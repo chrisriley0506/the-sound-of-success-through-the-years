@@ -93,7 +93,7 @@ jupyter notebook music_clustering_analysis.ipynb
 
 ## Video Presentation
 
-[Link to video presentation will be added]
+https://drive.google.com/file/d/1U8Vf0ucPZ1PgPpa5e7Oh-0lw5fZccIkE/view?usp=vids_web
 
 
 ---
